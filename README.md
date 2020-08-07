@@ -1,5 +1,7 @@
 # TravelRoutePlanner
 
+[![Build Status](https://travis-ci.com/Peter-Nagy/TravelRoutePlanner.svg?branch=master)](https://travis-ci.com/Peter-Nagy/TravelRoutePlanner)
+
 This package calculates the most efficient route destinations. 
 
 ## Usage
