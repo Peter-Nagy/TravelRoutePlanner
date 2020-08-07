@@ -32,3 +32,9 @@ Return value: __[String]__, an ordered list of the previously given destinations
 ```sh
 swift test --enable-test-discovery
 ```
+
+## Linting
+```sh
+swiftlint
+```
+
